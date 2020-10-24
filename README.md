@@ -1,8 +1,8 @@
 ### Hi there! I am Mithila 👋
-## A Front-end Web Developer
+# A Front-end Web Developer
 
 - 🔭 I’m currently working on React.js
-- 🌱 I’m currently learning Node.js, MongoDB
+
 
 ##  Skills: 
 - Programming Language Skills: C, JavaScript
