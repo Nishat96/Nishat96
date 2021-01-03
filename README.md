@@ -1,4 +1,4 @@
-### Hi there! I am Mithila 👋
+### Hi there! I am Nishat 👋
 # A Front-end Web Developer
 
 - 🔭 I’m currently working on React.js
