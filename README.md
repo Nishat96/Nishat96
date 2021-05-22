@@ -6,8 +6,10 @@
 
 ##  Skills: 
 - Programming Language Skills: C, JavaScript
-- Web Development Skills: Html5, CSS3, Bootstrap4, JavaScript and ES6, API, React.js, React-routing, Context API, Reacthooks, Firebase Authentication, React Native.
-- Tool: Selenium WebDriver, Git, Chrome Dev Tool, VS Code, Adobe xd, Adobe photoshop, Figma.
+- Web Development Skills: Html5, CSS3, Bootstrap4, JavaScript and ES6, API, React.js, React-routing, Context API, Reacthooks, Firebase Authentication.
+- App Development Skills: React Native
+- UI/UX Design: Figma, Adobe XD.
+- Tool: Selenium WebDriver, Git, Chrome Dev Tool, VS Code, Adobe photoshop.
 
 ![Nishat's github stats](https://github-readme-stats.vercel.app/api?username=nishat96&show_icons=true&theme=merko)
 
