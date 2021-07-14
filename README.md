@@ -6,8 +6,8 @@
 
 ##  Skills: 
 - Programming Language Skills: C, JavaScript
-- Web Development Skills: Html5, CSS3, Bootstrap4, JavaScript and ES6, API, React.js, React-routing, Context API, Reacthooks, Firebase Authentication.
-- App Development Skills: React Native, Angular.js
+- Web Development Skills: Html5, CSS3, Bootstrap4, JavaScript and ES6, API, React.js, React-routing, Context API, Reacthooks, Firebase Authentication, Angular.js.
+- App Development Skills: React Native.
 - UI/UX Design: Figma, Adobe XD.
 - Tool: Selenium WebDriver, Git, Chrome Dev Tool, VS Code, Adobe photoshop.
 
