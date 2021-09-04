@@ -1,7 +1,7 @@
 ### Hi there! I am Nishat 👋
 # A Front-end Web Developer
 
-- 🔭 I’m currently working on React.js and React native.
+- 🔭 I’m currently working on React.js, Angular.js and React native.
 
 
 ##  Skills: 
